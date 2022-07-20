@@ -7,3 +7,5 @@ Aplikasi dapat di download [DI SINI](https://github.com/amatsantoz/Aplikasi-Pemb
 
 #### Berikut tampilan aplikasinya
 
+ ![Tampilan](https://github.com/amatsantoz/Aplikasi-Pembelajaran-Algoritma-Pemrograman/blob/main/Screeshot/Collage.png)
+
